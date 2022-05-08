@@ -1,0 +1,14 @@
+.lbutton,
+.rbutton {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.lbutton {
+    background-color: black;
+    color: white;
+}
+
+.rbutton {
+    background-color: yellow;
+}
