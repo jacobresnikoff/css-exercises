@@ -66,4 +66,5 @@ ul {
   display: flex;
   justify-content: space-between;
   gap: 24px;
+  margin: 0;
 }
